@@ -1,0 +1,70 @@
+{
+  "platforms": {
+    "normal": {
+      "file": "platform_normal.png",
+      "width": 32,
+      "height": 32,
+      "color": "#8B4513",
+      "style": "stone",
+      "variations": 4
+    },
+    "moving": {
+      "file": "platform_moving.png",
+      "width": 32,
+      "height": 32,
+      "color": "#A0522D",
+      "style": "stone",
+      "variations": 2
+    },
+    "breakable": {
+      "file": "platform_breakable.png",
+      "width": 32,
+      "height": 32,
+      "color": "#CD853F",
+      "style": "stone",
+      "variations": 3
+    },
+    "disappearing": {
+      "file": "platform_disappearing.png",
+      "width": 32,
+      "height": 32,
+      "color": "#D2691E",
+      "style": "stone",
+      "variations": 2
+    },
+    "spikes": {
+      "file": "platform_spikes.png",
+      "width": 32,
+      "height": 32,
+      "color": "#8B0000",
+      "style": "metal",
+      "variations": 2
+    }
+  },
+  "background": {
+    "sky": {
+      "file": "sky.png",
+      "width": 64,
+      "height": 64,
+      "color": "#87CEEB",
+      "style": "gradient",
+      "variations": 1
+    },
+    "clouds": {
+      "file": "clouds.png",
+      "width": 64,
+      "height": 64,
+      "color": "#F0F8FF",
+      "style": "cloud",
+      "variations": 3
+    },
+    "mountains": {
+      "file": "mountains.png",
+      "width": 64,
+      "height": 64,
+      "color": "#808080",
+      "style": "mountain",
+      "variations": 2
+    }
+  }
+} 

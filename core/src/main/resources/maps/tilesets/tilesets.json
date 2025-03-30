@@ -1,0 +1,80 @@
+{
+  "tilesets": {
+    "platforms": {
+      "name": "Platforms",
+      "file": "platforms.tsx",
+      "tilewidth": 32,
+      "tileheight": 32,
+      "spacing": 2,
+      "margin": 1,
+      "tiles": {
+        "normal": {
+          "id": 0,
+          "properties": {
+            "solid": true,
+            "breakable": false
+          }
+        },
+        "moving": {
+          "id": 1,
+          "properties": {
+            "solid": true,
+            "breakable": false,
+            "movable": true
+          }
+        },
+        "breakable": {
+          "id": 2,
+          "properties": {
+            "solid": true,
+            "breakable": true
+          }
+        },
+        "disappearing": {
+          "id": 3,
+          "properties": {
+            "solid": true,
+            "breakable": false,
+            "disappearing": true
+          }
+        },
+        "spikes": {
+          "id": 4,
+          "properties": {
+            "solid": true,
+            "breakable": false,
+            "damage": true
+          }
+        }
+      }
+    },
+    "background": {
+      "name": "Background",
+      "file": "background.tsx",
+      "tilewidth": 64,
+      "tileheight": 64,
+      "spacing": 2,
+      "margin": 1,
+      "tiles": {
+        "sky": {
+          "id": 0,
+          "properties": {
+            "parallax": 0.5
+          }
+        },
+        "clouds": {
+          "id": 1,
+          "properties": {
+            "parallax": 0.3
+          }
+        },
+        "mountains": {
+          "id": 2,
+          "properties": {
+            "parallax": 0.1
+          }
+        }
+      }
+    }
+  }
+} 
