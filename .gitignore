@@ -1,0 +1,85 @@
+# Archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Directorios de compilación
+bin/
+build/
+out/
+target/
+.gradle/
+build/
+dist/
+
+# Archivos de IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración local
+local.properties
+
+# Archivos de recursos temporales
+*.tmp
+*.temp
+*.bak
+
+# Archivos de dependencias
+lib/
+libs/
+
+# Archivos de configuración de Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Archivos de configuración de Eclipse
+.project
+.classpath
+.settings/
+
+# Archivos de configuración de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos de configuración de NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Archivos de configuración de Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Archivos de configuración de Android Studio
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar 
