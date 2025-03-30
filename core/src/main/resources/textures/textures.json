@@ -1,0 +1,36 @@
+{
+  "player": {
+    "kaladin": {
+      "idle": "kaladin_idle.png",
+      "walk": "kaladin_walk.png",
+      "jump": "kaladin_jump.png",
+      "lash": "kaladin_lash.png",
+      "attack": "kaladin_attack.png"
+    }
+  },
+  "enemies": {
+    "parshendi": {
+      "normal": "parshendi_normal.png",
+      "warform": "parshendi_warform.png",
+      "attack": "parshendi_attack.png"
+    }
+  },
+  "spren": {
+    "syl": {
+      "idle": "syl_idle.png",
+      "fly": "syl_fly.png"
+    }
+  },
+  "environment": {
+    "platform": "platform.png",
+    "background": "background.png",
+    "tiles": "tiles.png"
+  },
+  "ui": {
+    "menu": "menu_background.png",
+    "button": "button.png",
+    "button_pressed": "button_pressed.png",
+    "health_bar": "health_bar.png",
+    "stormlight_bar": "stormlight_bar.png"
+  }
+} 

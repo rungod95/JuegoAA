@@ -1,0 +1,54 @@
+{
+  "player": {
+    "kaladin": {
+      "idle": {
+        "frames": ["kaladin_idle_1", "kaladin_idle_2", "kaladin_idle_3"],
+        "duration": 0.2
+      },
+      "walk": {
+        "frames": ["kaladin_walk_1", "kaladin_walk_2", "kaladin_walk_3", "kaladin_walk_4"],
+        "duration": 0.15
+      },
+      "jump": {
+        "frames": ["kaladin_jump_1", "kaladin_jump_2", "kaladin_jump_3"],
+        "duration": 0.1
+      },
+      "lash": {
+        "frames": ["kaladin_lash_1", "kaladin_lash_2", "kaladin_lash_3"],
+        "duration": 0.1
+      },
+      "attack": {
+        "frames": ["kaladin_attack_1", "kaladin_attack_2", "kaladin_attack_3"],
+        "duration": 0.1
+      }
+    }
+  },
+  "enemies": {
+    "parshendi": {
+      "normal": {
+        "frames": ["parshendi_normal_1", "parshendi_normal_2"],
+        "duration": 0.3
+      },
+      "warform": {
+        "frames": ["parshendi_warform_1", "parshendi_warform_2"],
+        "duration": 0.3
+      },
+      "attack": {
+        "frames": ["parshendi_attack_1", "parshendi_attack_2", "parshendi_attack_3"],
+        "duration": 0.1
+      }
+    }
+  },
+  "spren": {
+    "syl": {
+      "idle": {
+        "frames": ["syl_idle_1", "syl_idle_2", "syl_idle_3"],
+        "duration": 0.2
+      },
+      "fly": {
+        "frames": ["syl_fly_1", "syl_fly_2", "syl_fly_3"],
+        "duration": 0.15
+      }
+    }
+  }
+} 

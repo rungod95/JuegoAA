@@ -1,0 +1,52 @@
+{
+  "levels": {
+    "level1": {
+      "name": "Las Planicies Quebradas",
+      "file": "level1.tmx",
+      "background": "broken_plains.png",
+      "music": "exploration_theme.mp3",
+      "enemies": {
+        "parshendi": 3
+      },
+      "spren": {
+        "syl": 1
+      },
+      "platforms": {
+        "count": 10,
+        "types": ["normal", "moving", "breakable"]
+      }
+    },
+    "level2": {
+      "name": "La Tormenta Eterna",
+      "file": "level2.tmx",
+      "background": "eternal_storm.png",
+      "music": "battle_theme.mp3",
+      "enemies": {
+        "parshendi": 5
+      },
+      "spren": {
+        "syl": 1
+      },
+      "platforms": {
+        "count": 15,
+        "types": ["normal", "moving", "breakable", "disappearing"]
+      }
+    },
+    "level3": {
+      "name": "La Batalla Final",
+      "file": "level3.tmx",
+      "background": "final_battle.png",
+      "music": "boss_theme.mp3",
+      "enemies": {
+        "parshendi": 8
+      },
+      "spren": {
+        "syl": 1
+      },
+      "platforms": {
+        "count": 20,
+        "types": ["normal", "moving", "breakable", "disappearing", "spikes"]
+      }
+    }
+  }
+} 

@@ -1,0 +1,39 @@
+{
+  "sounds": {
+    "player": {
+      "kaladin": {
+        "jump": "kaladin_jump.wav",
+        "lash": "kaladin_lash.wav",
+        "attack": "kaladin_attack.wav",
+        "hurt": "kaladin_hurt.wav"
+      }
+    },
+    "enemies": {
+      "parshendi": {
+        "attack": "parshendi_attack.wav",
+        "transform": "parshendi_transform.wav",
+        "hurt": "parshendi_hurt.wav"
+      }
+    },
+    "spren": {
+      "syl": {
+        "appear": "syl_appear.wav",
+        "disappear": "syl_disappear.wav"
+      }
+    },
+    "ui": {
+      "button_click": "button_click.wav",
+      "menu_select": "menu_select.wav"
+    },
+    "environment": {
+      "wind": "wind.wav",
+      "storm": "storm.wav"
+    }
+  },
+  "music": {
+    "main_menu": "main_theme.mp3",
+    "battle": "battle_theme.mp3",
+    "exploration": "exploration_theme.mp3",
+    "boss": "boss_theme.mp3"
+  }
+} 
