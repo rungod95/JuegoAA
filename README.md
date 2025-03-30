@@ -99,8 +99,4 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 - Música y efectos de sonido: [Créditos de audio]
 - Arte y animaciones: [Créditos de arte]
 
-## Contacto
-
-Tu Nombre - [@tutwitter](https://twitter.com/tutwitter) - email@example.com
-
-Link del Proyecto: [https://github.com/tu-usuario/el-archivo-de-las-tormentas](https://github.com/tu-usuario/el-archivo-de-las-tormentas) 
+## Link del Proyecto: (https://github.com/rungod95/JuegoAA)
